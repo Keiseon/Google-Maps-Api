@@ -68,7 +68,7 @@ function initMap() {
   var markers = [
     {
       coords: { lat: 11.267, lng: -60.7 },
-      iconImage: null
+      iconImage: "./markers/025-ico-paragliding.png"
       // content: "<h2>~ Mount Dillon ~</h2>"
     },
 
@@ -82,7 +82,7 @@ function initMap() {
     {
       coords: { lat: 11.1799, lng: -60.7592 },
       // content: "<h2>~ Signal Hill ~</h2>",
-      iconImage: null
+      iconImage: "./markers/014-ico-mountain.png"
     },
 
     {
